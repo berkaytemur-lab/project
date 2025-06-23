@@ -1,3 +1,9 @@
+
+---
+
+
+
+```gitignore
 # Sanal ortam klasörü
 .venv/
 
@@ -8,8 +14,11 @@
 __pycache__/
 *.pyc
 
-# VSCode settings (kişisel tercihe göre, istersen kapatabilirsin)
+# VSCode settings (kişisel tercih)
 .vscode/
 
 # MacOS
 .DS_Store
+
+# Windows
+Thumbs.db
