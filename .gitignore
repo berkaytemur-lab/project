@@ -1,0 +1,15 @@
+# Sanal ortam klasörü
+.venv/
+
+# Jupyter geçici dosyaları
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode settings (kişisel tercihe göre, istersen kapatabilirsin)
+.vscode/
+
+# MacOS
+.DS_Store
