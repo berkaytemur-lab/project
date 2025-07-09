@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 
+=======
+#%%
+>>>>>>> Stashed changes
 import numpy as np
 
 # Our function will go through the matrix replacing each row in order turning it into echelon form.
