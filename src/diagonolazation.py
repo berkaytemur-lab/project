@@ -39,4 +39,4 @@ def diagonalize(A):
 A = np.array([[1, 5],
               [2, 4]])
 
-print(diagonlize(A))
+print(diagonalize(A))
