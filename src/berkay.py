@@ -1,3 +1,3 @@
-a=5
-b=3
-print(a+b)
+A = 5
+B = 3
+print(A + B)
