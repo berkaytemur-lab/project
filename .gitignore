@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+# Level 1 generated datasets
+projectlevel1/data/raw/*.csv
+projectlevel1/data/processed/*.csv

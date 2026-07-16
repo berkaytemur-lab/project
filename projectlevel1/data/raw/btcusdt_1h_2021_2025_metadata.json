@@ -1,0 +1,27 @@
+{
+    "source": "Binance TR public market API",
+    "api_url": "https://api.binance.me/api/v1/klines",
+    "symbol": "BTCUSDT",
+    "interval": "1h",
+    "requested_start_date": "2021-01-01T00:00:00+00:00",
+    "requested_end_date_exclusive": "2026-01-01T00:00:00+00:00",
+    "first_downloaded_candle": "2021-01-01T00:00:00+00:00",
+    "last_downloaded_candle": "2025-12-31T23:00:00+00:00",
+    "number_of_rows": 43810,
+    "columns": [
+        "open_time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "close_time",
+        "quote_volume",
+        "number_of_trades",
+        "taker_buy_base_volume",
+        "taker_buy_quote_volume",
+        "ignore"
+    ],
+    "collection_time_utc": "2026-07-16T18:58:10.014607+00:00",
+    "raw_file": "btcusdt_1h_2021_2025_raw.csv"
+}
