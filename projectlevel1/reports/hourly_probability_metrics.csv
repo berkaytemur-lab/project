@@ -1,0 +1,8 @@
+metric,value
+model_mae_percentage_points,2.4874826938806276
+baseline_mae_percentage_points,5.006365954111728
+model_rmse_percentage_points,2.9926992662159657
+baseline_rmse_percentage_points,6.588120447464013
+mae_improvement_percentage_points,2.5188832602311004
+rmse_improvement_percentage_points,3.5954211812480477
+model_actual_correlation,0.9302139684273601

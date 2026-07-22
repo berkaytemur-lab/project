@@ -1,0 +1,15 @@
+metric,value
+training_rows,34887.0
+test_rows,8760.0
+training_event_rate_percent,9.502106801960615
+test_event_rate_percent,7.796803652968036
+classification_threshold,0.5
+baseline_majority_class,0.0
+baseline_accuracy_percent,92.20319634703196
+model_accuracy_percent,92.20319634703196
+accuracy_improvement_percentage_points,0.0
+predicted_movement_events,0.0
+true_negative,8077.0
+false_positive,0.0
+false_negative,683.0
+true_positive,0.0
