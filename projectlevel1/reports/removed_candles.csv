@@ -1,0 +1,4 @@
+open_time,open,high,low,close,volume,close_time,quote_volume,number_of_trades,taker_buy_base_volume,taker_buy_quote_volume,ignore,duration_ms,valid_volume,valid_trade_count,valid_duration,usable_candle
+2021-02-11 03:00:00+00:00,44582.07,44582.07,44582.07,44582.07,0.0,2021-02-11 03:40:54.773000+00:00,0.0,0,0.0,0.0,0,2454773.0,False,False,False,False
+2021-04-25 04:00:00+00:00,49626.76,49705.04,49600.24,49683.94,5.887034,2021-04-25 04:00:58.146000+00:00,292226.01345715,224,4.229245,209956.01047409,0,58146.0,True,True,False,False
+2023-03-24 12:00:00+00:00,28080.0,28080.0,28080.0,28080.0,0.0,2023-03-24 12:39:41.646000+00:00,0.0,0,0.0,0.0,0,2381646.0,False,False,False,False
